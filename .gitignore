@@ -101,3 +101,10 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+# VS Settings files
+*.user
+
+# Directories
+.vs/
+bin/
+bin-int/
